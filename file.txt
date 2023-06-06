@@ -1,0 +1,41 @@
+4. Modify menu
+‘System can make changings in menu Tike adding or removing Rood dems which are not
+avaible.
+
+5. Select food items
+tems are selected customer feel fie fo order.
+
+6. Changes to order
+Changes to order means the customer can make changings in order like helshe can dekee or
+add food item in order.
+
+7. Review the order before submit
+Before submiting the complete order is reviewed 10 the customer. Customer name, phone
+umber, location (address) and placed order, hen finaly order is submited.
+
+5. Payment
+For customer there are many type of secure billing will be prepaid as debit or eredit card,
+postpaid as afer delivering, check or bank draf.
+
+9. Provide delivery and payment details
+Here bil is generated, order no. and payment & given and confirmation of delivery done.
+
+10. Logout
+After the payment or sur the product the customer will log out.
+
+Non-Functional Requirements:
+
+1. Portability
+‘System ruming on one platform can easily be converted to run on another phiform
+
+2. Reliability
+“The abiity of the system to behave consistently in a user-acceptable mamer when operating
+win. the environment. for which the system was intended.
+
+3. Availability
+“The system shoud be avaible at all times, meaning the user can access # using a web
+browser, only restricted by the dawn tim: of he server on which the system runs,
+
+4. Maintainability
+A commercial database i used for nainaining the database and the appliation server takes
+care of the site.
